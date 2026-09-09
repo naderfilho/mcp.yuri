@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "bambu": {
+      "command": "node",
+      "args": ["src/index.js"],
+      "env": {
+        "BAMBU_PRINTER_IP": "",
+        "BAMBU_ACCESS_CODE": "",
+        "BAMBU_SERIAL": ""
+      }
+    }
+  }
+}

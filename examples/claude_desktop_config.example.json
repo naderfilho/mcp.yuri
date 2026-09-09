@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "bambu": {
+      "command": "node",
+      "args": ["C:/Users/SEU_USUARIO/mcp.yuri/src/index.js"],
+      "env": {
+        "BAMBU_PRINTER_IP": "192.168.1.50",
+        "BAMBU_ACCESS_CODE": "12345678",
+        "BAMBU_SERIAL": "01S00A000000000",
+        "BAMBU_STUDIO_PATH": "C:/Program Files/Bambu Studio/bambu-studio.exe"
+      }
+    }
+  }
+}
